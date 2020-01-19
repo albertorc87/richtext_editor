@@ -140,7 +140,7 @@ CKEDITOR_CONFIGS = {
         'toolbar': 'Custom',
         # Toolbar buttons
         'toolbar_Custom': [
-            ['Format'],
+            ['Format', 'Image'],
             # Emotional Code Block
             ['Smiley', 'CodeSnippet'], 
             # Font Style
